@@ -1,16 +1,22 @@
 # Fake News Detection Using a Quantum Machine Learning Approach
 
 ## Overview
-We are excited to present a project that leverages quantum computing and machine learning to detect fake news effectively. This project has been recognized and accepted at the CISS 2025 conference, emphasizing its innovation and impact in the field.
+We are excited to present a project that leverages quantum computing and machine learning to detect fake news effectively. This project has been recognized and accepted at the CISS 2025 conference.
 
-## Installation
+![Quantum Machine Learning Diagram](Proposed_pipeline.png "pipeline")
+
+
+## Installation & Usage
 
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/ajam74001/FakeNews-Detection_Quantum-ML-Approach.git
+```
+```
 cd FakeNews-Detection_Quantum-ML-Approach
 ```
+
 Run the model using the following command:
 ```
 python main.py
