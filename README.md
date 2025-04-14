@@ -27,12 +27,16 @@ python main.py
 If you use this project or its findings, please cite it as follows:
 
 ```
-@inproceedings{fakenewsdetection2025,
-  title={Fake News Detection Using a Quantum Machine Learning Approach},
-  author={Ainaz Jamshidi, Muhammad Arif},
-  booktitle={Proceedings of the CISS 2025},
-  year={2025}
-}
+@INPROCEEDINGS{10944642,
+  author={Jamshidi, Ainaz and Arif, Muhammad},
+  booktitle={2025 59th Annual Conference on Information Sciences and Systems (CISS)}, 
+  title={Revolutionizing Fake News Detection: A Quantum Machine Learning Paradigm}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-3},
+  keywords={Social networking (online);Quantum entanglement;Open Access;Computational modeling;Decision making;Machine learning;Feature extraction;Fake news;Integrated circuit modeling;Quantum circuit;quantum computing;fake news detection;quantum artificial neural network},
+  doi={10.1109/CISS64860.2025.10944642}}
 ```
 
 ## Contact
